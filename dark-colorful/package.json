@@ -1,0 +1,21 @@
+{
+  "name": "dark-colorful",
+  "displayName": "Dark-Colorful",
+  "description": "Colorful dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark-Colorful",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Colorful-color-theme.json"
+      }
+    ]
+  }
+}

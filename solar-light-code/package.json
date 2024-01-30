@@ -1,0 +1,21 @@
+{
+  "name": "light-code",
+  "displayName": "Light-Code",
+  "description": "A light theme to code comfortably",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light-Code",
+        "uiTheme": "vs",
+        "path": "./themes/Light-Code-color-theme.json"
+      }
+    ]
+  }
+}
